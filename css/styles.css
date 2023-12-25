@@ -8268,6 +8268,12 @@ textarea.form-control-lg {
   border-radius: 50% !important;
 }
 
+.rounded-circle-img {
+  overflow: hidden;
+  width: 128px; 
+  height: 128px;
+}
+
 .rounded-pill {
   border-radius: var(--bs-border-radius-pill) !important;
 }
